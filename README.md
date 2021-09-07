@@ -12,4 +12,5 @@
 - Open terminal command window: Ctrl + `
 - Npm init or yarn init 
 - git init
+- git add *
 - git commit -m"Initial commit"
